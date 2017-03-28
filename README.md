@@ -7,16 +7,16 @@
 <h3>Feelings The Game Should Elicit in Players</h3><br>
 <p>Feelings will depend on the players’ background, age, and gender. But overall, I want to make players feel excited and challenged. Because the win-state is not apparent, the players should be curious as to how they could win. This should be a motivational factor to keep them playing the game.</p>
 <hr><br>
-<p>Game Mechanics
-- Running (W,A,S,D)
-- Player Shooting (Raycasting) (Left Click) 
-- Enemy Melee Attack (AI NavAgent) 
-- Enemy Spawning 
-- Player/Enemy Death (Sinking through the floor)
-- Boss Zombie Splitting into little zombies
-- Player Harmed (Player Health Component)
-- Enemy Harmed (Enemy Health Component)
-- UI Interactions (Texts, Buttons, Image)
-- Camera Following (Raycasting) </p>
+<h3>Game Mechanics</h3>
+<ul><li>Running (W,A,S,D)</li>
+<li>Player Shooting (Raycasting) (Left Click)</li>
+<li>Enemy Melee Attack (AI NavAgent</li>
+<li>Enemy Spawning </li>
+<li>Player/Enemy Death (Sinking through the floor)</li>
+<li>Boss Zombie Splitting into little zombies</li>
+<li>Enemy Harmed (Enemy Health Component)</li>
+<li>Enemy Harmed (Enemy Health Component)</li>
+<li> UI Interactions (Texts, Buttons, Image)</li>
+</ul>
 
 
